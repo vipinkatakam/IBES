@@ -1,4 +1,5 @@
 # prompt: use streamlit to create an interactive dashboard
+pip install matplotlib
 
 #!pip install streamlit
 import pandas as pd
